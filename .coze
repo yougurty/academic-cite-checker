@@ -1,6 +1,6 @@
 [skill]
-name=""
-description=""
-skill_package=""
-project_name=""
-project_description=""
+  skill_package = "academic-cite-checker.skill"
+  name = "academic-cite-checker"
+  description = "学术引用真实性验证工具，解析.bib文件并通过Crossref验证DOI，识别AI幻觉文献；当用户需要检查参考文献、验证引用真实性或处理.bib文件时使用"
+  project_name = "学术引用检查技能"
+  project_description = "学术引用真实性验证工具"
